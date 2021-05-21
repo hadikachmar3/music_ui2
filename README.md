@@ -2,15 +2,14 @@
 
 Beatiful Soft UI desing (Skeuomorphic Design) with Flutter
 
-<p align="center">
-  <img src="soft_ui.png" width="350" alt="soft ui with flutter" title="Screenshot">
-</p>
 
-## Getting Started
+## Mockup
 
-This project is a starting point for a Flutter application.
+![music 2](https://user-images.githubusercontent.com/38382273/119205469-f8678680-baa0-11eb-854a-615e7355679f.png)
 
-A few resources to get you started if this is your first Flutter project:
+
+
+
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
